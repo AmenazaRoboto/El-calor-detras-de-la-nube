@@ -92,7 +92,8 @@ function getAnnualRefLST(satellite, startYear, endYear) {
 // 4. CALCULAR
 // ===============================
 var ref_L7 = getAnnualRefLST('L7', 2000, 2024);
-var ref_L8 = getAnnualRefLST('L8', 2013, 2025);
+// L8 arranca en 2014 (se omite 2013 para replicar el reflst.csv original)
+var ref_L8 = getAnnualRefLST('L8', 2014, 2025);
 
 var ref_all = ref_L7.merge(ref_L8);
 
