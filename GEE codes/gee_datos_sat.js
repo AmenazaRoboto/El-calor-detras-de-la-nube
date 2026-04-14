@@ -1,4 +1,12 @@
 // =============================================================================
+// Contexto: este script forma parte del material de reproducibilidad
+// de la investigación periodística "El calor detrás de la nube",
+// publicada en Amenaza Roboto (www.amenazaroboto.com), que documenta
+// la isla de calor generada por el datacenter de Antel en Pando
+// (Canelones, Uruguay).
+// =============================================================================
+//
+// =============================================================================
 // EXPORT PIXELES ANUALES - datos_sat.csv
 // Sitios: dc, cor, enc  |  Zonas: sitio, inner (0-150m), outer (150-300m)
 // Satelites: L7 (2000-2025), L8 (2013-2025)

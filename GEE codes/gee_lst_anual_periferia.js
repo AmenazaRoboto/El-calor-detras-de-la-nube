@@ -1,4 +1,12 @@
 // ===============================================================
+// Contexto: este script forma parte del material de reproducibilidad
+// de la investigación periodística "El calor detrás de la nube",
+// publicada en Amenaza Roboto (www.amenazaroboto.com), que documenta
+// la isla de calor generada por el datacenter de Antel en Pando
+// (Canelones, Uruguay).
+// ===============================================================
+//
+// ===============================================================
 // LST anual — referencia periferia (6 poligonos vegetacion)
 // Genera 1 valor medio por anio/satelite
 // Comparable con lst_anual_5km_L7_L8.csv pero usando periferia

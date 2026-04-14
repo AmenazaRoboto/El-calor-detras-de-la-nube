@@ -1,4 +1,12 @@
 // ===============================================================
+// Contexto: este script forma parte del material de reproducibilidad
+// de la investigación periodística "El calor detrás de la nube",
+// publicada en Amenaza Roboto (www.amenazaroboto.com), que documenta
+// la isla de calor generada por el datacenter de Antel en Pando
+// (Canelones, Uruguay).
+// ===============================================================
+//
+// ===============================================================
 // REFLST - Referencia LST anual en buffer 5km alrededor del DC
 // Exporta directamente con el esquema de reflst.csv:
 //   columnas: year, sat, ref2
