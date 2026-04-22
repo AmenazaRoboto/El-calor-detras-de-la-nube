@@ -11,7 +11,7 @@ Material de reproducibilidad de la investigación periodística **"El calor detr
 │   ├── gee_lst_anual_periferia.js  referencia regional (periferia)
 │   └── gee_reflst.js               promedios regionales por año y satélite
 │
-└── Analisis/      Datos procesados y modelo estadístico
+└── Analysis/      Datos procesados y modelo estadístico
     ├── datos_sat.csv               ~40.000 mediciones LST / NDVI / NDBI (2000-2025)
     ├── reflst.csv                  temperatura regional por año y satélite
     ├── modelo_anual_comentado.R    modelo principal (diferencias en diferencias)
@@ -55,7 +55,7 @@ Reproducibility material for the journalistic investigation **"El calor detrás 
 │   ├── gee_lst_anual_periferia.js  regional reference (periphery)
 │   └── gee_reflst.js               regional averages by year and satellite
 │
-└── Analisis/      Processed data and statistical model
+└── Analysis/      Processed data and statistical model
     ├── datos_sat.csv               ~40,000 LST / NDVI / NDBI measurements (2000-2025)
     ├── reflst.csv                  regional temperature by year and satellite
     ├── modelo_anual_comentado.R    main model (difference-in-differences)
