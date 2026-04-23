@@ -38,7 +38,12 @@ Modelo de diferencias en diferencias sobre 32.861 observaciones:
 
 ## Licencia y uso
 
-Publicado como material de reproducibilidad. Si usás estos datos o código, citá la investigación original en Amenaza Roboto.
+Este material se publica como recurso de reproducibilidad de la investigación periodística original. Su uso, total o parcial, queda sujeto a la siguiente condición de **atribución clara y explícita**:
+
+- Toda publicación, informe, artículo académico, nota periodística o material derivado que utilice los datos, el código o los resultados contenidos en este repositorio debe citar de forma visible la investigación original **"El calor detrás de la nube"**, publicada en *Amenaza Roboto* (https://amenazaroboto.com/el-calor-detras-de-la-nube), así como este repositorio como fuente de los materiales reproducibles.
+- La atribución debe permitir al lector identificar con claridad la autoría y la publicación original, evitando formulaciones genéricas o ambiguas.
+
+No se autoriza su uso sin la correspondiente atribución.
 
 ---
 
@@ -82,4 +87,9 @@ Difference-in-differences model over 32,861 observations:
 
 ## License and use
 
-Released as reproducibility material. If you use this data or code, please cite the original investigation at Amenaza Roboto.
+This material is released as a reproducibility resource for the original journalistic investigation. Any use, whether full or partial, is subject to the following condition of **clear and explicit attribution**:
+
+- Any publication, report, academic paper, news article or derivative work that uses the data, code or results contained in this repository must prominently cite the original investigation **"The heat behind the cloud"** ("El calor detrás de la nube"), published in *Amenaza Roboto* (https://amenazaroboto.com/the-heat-behind-the-cloud), as well as this repository as the source of the reproducible materials.
+- Attribution must allow the reader to clearly identify the authorship and the original publication, avoiding generic or ambiguous formulations.
+
+Use without proper attribution is not authorized.
